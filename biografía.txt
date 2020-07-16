@@ -2,6 +2,7 @@
 Estamos agregando cambios y mejorando la historia desde VIM.
 
 Cambié el nombre de usuario en Github y puse privado el correo.
+Se colocó el Correo privado por razones de seguridad..
 
 
 Mañan hablaremos de su vida laboral
