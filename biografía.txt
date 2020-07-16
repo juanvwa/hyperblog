@@ -1,6 +1,7 @@
 
 Estamos agregando cambios y mejorando la historia desde VIM.
 
+Cambié el nombre de usuario en Github y puse privado el correo.
 
 
 Mañan hablaremos de su vida laboral
