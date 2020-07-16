@@ -1,5 +1,5 @@
 
-Estamos agragando cambio y mejorando la historia desde VIM
+Estamos agregando cambios y mejorando la historia desde VIM.
 
 
 
